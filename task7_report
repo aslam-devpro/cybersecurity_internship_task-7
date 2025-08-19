@@ -1,0 +1,32 @@
+Cybersecurity Internship – Task 7
+Task: Identify and Remove Suspicious Browser Extensions
+Browser Used: Google Chrome
+Date Performed: Aug 19, 2025
+
+Objective:
+Learn to spot and remove potentially harmful browser extensions.
+
+Steps Taken:
+1. Launched Google Chrome.
+2. Opened the extensions manager by navigating to Menu (⋮) → Extensions → Manage Extensions.
+3. Carefully reviewed all installed extensions.
+4. Checked permissions and reviews for each extension.
+5. Evaluated extensions for any signs of being unused, suspicious, or overly permissive.
+6. Restarted the browser after verification.
+
+Installed Extensions Reviewed:
+• Google Docs Offline
+• McAfee Web Advisor
+
+Result:
+Both extensions were verified as safe and legitimate. No suspicious or unnecessary extensions were found or removed.
+
+Notes:
+Research was conducted to understand how malicious browser extensions can harm users. Harmful extensions may:
+- Collect browsing history and personal data without consent.
+- Inject ads or unwanted scripts into web pages.
+- Redirect users to malicious websites.
+- Capture login credentials and sensitive information.
+
+Performance Observation:
+No negative impact or performance issues were observed after the review.
